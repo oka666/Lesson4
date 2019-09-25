@@ -1,0 +1,7 @@
+C:\itea\Lesson4\Lesson4\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\itea\Lesson4\Lesson4\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\itea\Lesson4\Lesson4\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\itea\Lesson4\Lesson4\ConsoleApp6\obj\Debug\Lesson4.csprojAssemblyReference.cache
+C:\itea\Lesson4\Lesson4\ConsoleApp6\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\itea\Lesson4\Lesson4\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\itea\Lesson4\Lesson4\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
